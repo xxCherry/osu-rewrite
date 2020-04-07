@@ -2,4 +2,3 @@ bin/
 obj/
 .vs/
 packages/
-packages.config
